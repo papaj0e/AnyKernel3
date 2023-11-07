@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Steroid Kernel @Tetsuo&Nomad
+kernel.string=Steroid Kernel @Tetsuo&Nomad&PJ
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=raphael
 device.name2=raphaelin
 device.name3=cepheus
-supported.versions=10-13
+supported.versions=11-14
 supported.patchlevels=
 '; } # end properties
 
