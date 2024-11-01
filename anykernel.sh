@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=raphael
 device.name2=raphaelin
 device.name3=cepheus
-supported.versions=11-14
+supported.versions=11-15
 supported.patchlevels=
 '; } # end properties
 
